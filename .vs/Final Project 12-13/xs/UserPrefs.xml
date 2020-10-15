@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{07F43321-8D97-BA43-5F09-5ACDDF3176E0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Score.cs">
+    <Files>
+      <File FileName="Assets/Control.cs" Line="33" Column="1" />
+      <File FileName="Assets/PauseGame.cs" Line="1" Column="1" />
+      <File FileName="Assets/PlayerBeams.cs" Line="1" Column="1" />
+      <File FileName="Assets/Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets/Score.cs" Line="18" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="84b02c05-b185-4767-a3f4-392f823f9cdd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

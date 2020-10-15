@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{CADB3A11-9AF8-8755-F632-ADE612B115CD}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Control.cs">
+    <Files>
+      <File FileName="Assets/Control.cs" Line="24" Column="29" />
+      <File FileName="Assets/EnemyBeams.cs" Line="19" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="e5810164-c094-4e98-b92a-8be6c2128fb5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
